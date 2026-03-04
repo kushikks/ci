@@ -1,15 +1,7 @@
 {
-  "name": "ci",
+  "name": "ci-demo",
   "version": "1.0.0",
-  "description": "Simple CI test",
-  "main": "test.js",
   "scripts": {
     "test": "node test.js"
-  },
-  "keywords": [],
-  "author": "",
-  "license": "ISC",
-  "devDependencies": {
-    "jest": "^30.2.0"
   }
 }
